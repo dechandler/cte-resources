@@ -1,0 +1,1 @@
+These are ready for copy-pasting into the data files of a CTE Framework document generator I wrote. I'll publish that later.
